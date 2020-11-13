@@ -1,3 +1,14 @@
+# Meu primeiro projeto em React
+
+Obrigada pelo ensino.
+
+Eu aprendi sobre componentes, propriedades, aprendi mais sobre montar API simples.
+Aprendi formas variadas de se criar um componente e entendi mais sobre o react e sobre o que tenho que estudar mais como metodos de JS.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
